@@ -5,9 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5b10dc95-c43c-4bb9-94ca-7d51e01772ce" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/AlgoAssignment2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-project/test2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/python-project/biydaalt2.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-project/biydaalt2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/python-project/text_justify.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-project/text_justify.py" afterDir="false" />
@@ -43,35 +40,41 @@
   &quot;associatedIndex&quot;: 5
 }</component>
   <component name="ProjectId" id="34Yhw5oVy9O97b37T092teoJP0b" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python tests.Python tests for text_justify.TestTextJustifier.executor": "Run",
     "Python tests.Python tests in test2.py.executor": "Run",
     "Python tests.Python tests in text_justify.py.executor": "Run",
     "Python.biydaalt2.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "/home/monkhtsetsen/PycharmProjects/AlgoAssignment2"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\AlgoAssignment2\python-project" />
       <recent name="$PROJECT_DIR$/python-project" />
     </key>
   </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="PythonProject" />
-      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -93,7 +96,6 @@
     </configuration>
     <configuration name="Python tests for text_justify.TestTextJustifier" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="AlgoAssignment2" />
-      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
@@ -119,6 +121,7 @@
       </set>
     </attachedChunks>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="5b10dc95-c43c-4bb9-94ca-7d51e01772ce" name="Changes" comment="" />
@@ -128,6 +131,9 @@
       <updated>1761396647744</updated>
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
