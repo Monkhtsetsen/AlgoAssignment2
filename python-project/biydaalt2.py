@@ -4,7 +4,6 @@ import time
 import sys
 import os
 
-
 class Mongolian:
     def __init__(self):
         try:
@@ -28,7 +27,7 @@ def split_words(text):
 
 
 def greedy_justify_with_hyphenation(words, width, hyph):
-    """Хууны кодны Greedy + Hyphenation"""
+
     result = []
     line_words = []
     current_len = 0
@@ -471,8 +470,6 @@ def clear_screen():
     os.system('cls' if os.name == 'nt' else 'clear')
 
 
-# ==================== MAIN PROGRAM ====================
-
 def main():
     hy = Mongolian()
 
@@ -750,8 +747,8 @@ def main():
 
             # Үр дүнг файлд хадгалах
             print(f"\n{'=' * 60}")
-            save_choice = input("Үр дүнг файлд хадгалах уу? (т/ү): ").strip().lower()
-            if save_choice in ['т', 'y', 'yes']:
+            save_choice = input("Үр дүнг файлд хадгалах уу? (Y/N): ").strip().lower()
+            if save_choice in ['Y', 'N', 'yes']:
                 filename = f"output_{int(time.time())}.txt"
                 try:
                     with open(filename, "w", encoding="utf-8") as f:
